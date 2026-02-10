@@ -1,6 +1,6 @@
 # hil-pusht-env
 
-[![Tests](https://github.com/shpigi/hil-push-T/actions/workflows/tests.yml/badge.svg)](https://github.com/shpigi/hil-push-T/actions/workflows/tests.yml)
+[![Tests](https://github.com/shpigi/hil-pusht-env/actions/workflows/tests.yml/badge.svg)](https://github.com/shpigi/hil-pusht-env/actions/workflows/tests.yml)
 
 Standalone PushT environment package with:
 
